@@ -28,23 +28,23 @@ shout: # Required: **TWO** lines, will be displayed on page's header.
   - 辍学如磨刀之石不见其损日有所亏
 description: "持续ing" # Required
 
-disqus:
-  comments: false # Global toggle on/off disqus comment
-  shortname:  # Required if you use disqus. Replace with your disqus shortname here
+# disqus:
+#   comments: false # Global toggle on/off disqus comment
+#   shortname:  # Required if you use disqus. Replace with your disqus shortname here
 
-gitalk:
-  comments: true # Global toggle on/off gitalk comment
-  # replace all of those below with your own
-  client_id: baeea51800be67550b52
-  client_secret: 4a521ccafa96b8b2b128659c35468bdd7ba5d4aa
-  repo: jekyll-theme-textalic
-  owner: unifreak
-  admin: unifreak
-  distraction_free_mode: true
+# gitalk:
+#   comments: true # Global toggle on/off gitalk comment
+#   # replace all of those below with your own
+#   client_id: baeea51800be67550b52
+#   client_secret: 4a521ccafa96b8b2b128659c35468bdd7ba5d4aa
+#   repo: jekyll-theme-textalic
+#   owner: unifreak
+#   admin: unifreak
+#   distraction_free_mode: true
 
 
-google_analytics:
-  id: "" # Required if you use google analytics. Replace with your tracking id here
+# google_analytics:
+#   id: "" # Required if you use google analytics. Replace with your tracking id here
 
 collections: # Define post series here
   demo_series:

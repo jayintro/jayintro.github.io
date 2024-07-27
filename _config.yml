@@ -23,9 +23,9 @@ excerpt_separator: "[-----]"
 url: # Required: replace this with your domain
 name: FYZ # Required: will be displayed on every page's header
 title: 浮元子's Blog' # Required: site's default title
-shout: # Required: **TWO** lines, will be displayed on page's header.
-  - Pain is inevitable. 
-  - Suffering is optional.
+# shout: # Required: **TWO** lines, will be displayed on page's header.
+#   - Pain is inevitable. 
+#   - Suffering is optional.
 description: "持续ing" # Required
 
 # disqus:

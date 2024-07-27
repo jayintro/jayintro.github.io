@@ -47,9 +47,9 @@ description: "持续ing" # Required
 #   id: "" # Required if you use google analytics. Replace with your tracking id here
 
 collections: # Define post series here
-  demo_series:
+  travel:
     output: true
-  demo_series_2:
+  book_review:
     output: true
 
 defaults:

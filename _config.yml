@@ -24,8 +24,8 @@ url: # Required: replace this with your domain
 name: FYZ # Required: will be displayed on every page's header
 title: 浮元子's Blog' # Required: site's default title
 shout: # Required: **TWO** lines, will be displayed on page's header.
-  - 勤学如春起之苗不见其增日有所长
-  - 辍学如磨刀之石不见其损日有所亏
+  - Pain is inevitable. 
+  - Suffering is optional.
 description: "持续ing" # Required
 
 # disqus:

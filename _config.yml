@@ -14,19 +14,19 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
 
-paginate: 7
+paginate: 10
 paginate_path: "page:num"
 layout: post
 permalink: /:categories/:title
 excerpt_separator: "[-----]"
 
 url: # Required: replace this with your domain
-name: textalic # Required: will be displayed on every page's header
-title: site title # Required: site's default title
+name: FYZ # Required: will be displayed on every page's header
+title: 浮元子's Blog' # Required: site's default title
 shout: # Required: **TWO** lines, will be displayed on page's header.
-  - one liner one...
-  - one liner two...
-description: "Some short description on your site" # Required
+  - 勤学如春起之苗不见其增日有所长
+  - 辍学如磨刀之石不见其损日有所亏
+description: "持续ing" # Required
 
 disqus:
   comments: false # Global toggle on/off disqus comment

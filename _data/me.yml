@@ -1,27 +1,27 @@
 # These data will be shown in /about page and every page footer
 # Replace these with your own personal info
 
-name: "YOUR NAME"
-job: "Job Title"
-hi: "HIYA!"
-avatar_img: "/assets/img/me.png" # path to your avatar
+name: "浮元子"
+job: "安全爱好者"
+hi: "Hola!"
+avatar_img: "/assets/img/fuyuanzi.jpg" # path to your avatar
 intro:
-  - "Some thing about yourself"
-  - "Can have multiple lines"
+  - "间接性踌躇满志，持续性混吃等死"
+  - "快点吧，在等等的花都谢了~"
 skills:
   - name: "Programming"
     icon-class: "fa fa-terminal"
     list: ["PHP", "Python", "Shell", "C", "SQL"]
   - name: "Framework"
     icon-class: "fa fa-th-list"
-    list: ["Laravel / Lumen", "ThinkPHP", "Yii", "Flask"]
+    list: ["Laravel", "ThinkPHP", "Apache", "Tomcat", "Weblogic"]
   - name: "Tools"
     icon-class: "fa fa-cogs"
-    list: ["Linux", "Docker", "Git", "SublimeText"]
+    list: ["Kali", "Burpsuit", "CS", "各类漏洞利用工具"]
 
-display_name: "YOUR NAME"
-contact:
-  - {name: "Mobile", icon-class: "fa fa-phone-square", text: "123 4567 8910", link: "tel: 123 4567 8010"}
-  - {name: "Email", icon-class: "fa fa-envelope", text: "example@example.com", link: "mailto: example@example.com"}
-social:
-  - {name: "GitHub", icon-class: "fa fa-github-square", text: "https://github.com", link: "https://github.com"}
+# display_name: "浮元子"
+# contact:
+#   - {name: "Mobile", icon-class: "fa fa-phone-square", text: "123 4567 8910", link: "tel: 123 4567 8010"}
+#   - {name: "Email", icon-class: "fa fa-envelope", text: "example@example.com", link: "mailto: example@example.com"}
+# social:
+#   - {name: "GitHub", icon-class: "fa fa-github-square", text: "https://github.com", link: "https://github.com"}

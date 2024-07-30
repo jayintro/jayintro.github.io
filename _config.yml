@@ -43,8 +43,8 @@ description: "不知道怎么描述~" # Required
 #   distraction_free_mode: true
 
 
-# google_analytics:
-#   id: "" # Required if you use google analytics. Replace with your tracking id here
+google_analytics:
+  id: "G-T74V87FX2H" # Required if you use google analytics. Replace with your tracking id here
 
 collections: # Define post series here
   travel:

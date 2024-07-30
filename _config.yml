@@ -44,7 +44,7 @@ description: "不知道怎么描述~" # Required
 
 
 google_analytics:
-  id: "G-T74V87FX2H" # Required if you use google analytics. Replace with your tracking id here
+  id: "G-0F1L3TLLF9" # Required if you use google analytics. Replace with your tracking id here
 
 collections: # Define post series here
   travel:
